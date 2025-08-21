@@ -2,9 +2,9 @@
    "name": "rsl",
    "displayName": "RSL",
    "description": "R-Style Language support",
-   "author": "Veniamin Rakov",
+   "author": "Veniamin Rakov (forked by Ilya Sennikov)",
    "license": "SEE LICENSE IN 'LICENSE' file",
-   "version": "1.0.18",
+   "version": "0.1.0",
    "icon": "icon.png",
    "bugs": {
       "url": "https://github.com/alliluja/RSL/issues",
@@ -14,7 +14,7 @@
       "type": "git",
       "url": "https://github.com/alliluja/RSL.git"
    },
-   "publisher": "VeniaminRakov",
+   "publisher": "IlyaSennikov",
    "categories": [
       "Programming Languages",
       "Snippets"
@@ -159,6 +159,6 @@
    "__metadata": {
       "id": "39b89ed8-b498-43ed-8f14-0fc6967594af",
       "publisherId": "8c7522ab-24a6-400a-8557-79520de0ac17",
-      "publisherDisplayName": "Veniamin Rakov"
+      "publisherDisplayName": "Ilya Sennikov"
    }
 }
