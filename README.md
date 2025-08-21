@@ -20,15 +20,13 @@ OR
 1. Open a command-line prompt
 2. Run `code --install-extension bezelbobsky.vscode-rsl`
 
- [GitHub Link](https://github.com/alliluja/RSL "Source, wiki, issue")
+ [GitHub Link](https://github.com/GigaSETT/GRSL "Source, wiki, issue")
 
- [MarketPlace Link](https://marketplace.visualstudio.com/items?itemName=VeniaminRakov.rsl "Releases")
 
- Please post all detected errors in the [Issue Link](https://github.com/alliluja/RSL/issues "If any trouble")
+ Please post all detected errors in the [Issue Link](https://github.com/GigaSETT/GRSL/issues "If any trouble")
 
 ## Functionality
 
-* [Some snippets](https://github.com/alliluja/RSL/wiki/Snippets).
 * IntelliSense.
 * Code coloring.
 * Formatting
